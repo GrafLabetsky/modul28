@@ -1,0 +1,4 @@
+﻿pytest
+pytest-selenium
+selenium
+urllib3
